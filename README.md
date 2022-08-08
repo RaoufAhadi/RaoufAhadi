@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RaoufAhadi
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning python,and teaching  computer 
+- 💞️ I’m looking to collaborate on education 
+- 📫 How to reach me ,its easy on twitter @raoufahadi
